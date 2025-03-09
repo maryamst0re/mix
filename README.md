@@ -1,6 +1,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Capriola&size=40&duration=4000&pause=450&color=F70069&background=FFFFAA00&center=true&random=false&width=600&height=100&lines=Maryam Store AUTOSCRIPT !;Official Version 1.5.3" /></p>
-  
+
+### • UPDATE SEBELUM INSTALL •
+<pre><code>apr update -y && apt upgrade -y && apt dist-upgrade -y </code></pre>pre>
+
 ### • Rebuild Deb 10 Selain DO •
 <pre><code>curl -O https://raw.githubusercontent.com/bin456789/reinstall/main/reinstall.sh && bash reinstall.sh Debian 10 && reboot</code></pre>
 
